@@ -1,0 +1,31 @@
+#container1{
+	background-color: #D3D3D3;
+	text-align: center;
+}
+
+.container2{
+	background-color:##ADD8E6;
+	width: 300px;
+	padding: 10px;
+	margin: auto;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+
+}
+#submit{
+	border-radius: 10px;
+	background-color: blank;
+	color: white;
+	font-size: blank;
+	cursor: pointer;
+}
+
+label{
+	font-size: 25px;
+	font-family: ;
+}
+
+body{
+	background-image: url(https://media.gettyimages.com/id/875574432/video/4k-abstract-minimalistic-background-loop.jpg?s=640x640&k=20&c=RWMXi7jbL6C8Guln7mU9jZSfwVTuuVKGAnYXopzUdWM=);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
